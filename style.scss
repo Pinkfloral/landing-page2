@@ -1,0 +1,14 @@
+style {
+    text-align: center;
+    position: relative;
+    width: 100px;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+*, ::after, ::before {
+box-sizing: border-box;
+}
+div{
+    display: block;
+}
